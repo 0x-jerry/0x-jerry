@@ -1,6 +1,6 @@
 **Wow, you just got me! QAQ**
 
-I am Jerry wang, a front-end developer from china, and you can know more about me with [my blog][blog].
+I am Jerry Wang, a front-end developer from China, and you can know more about me with [my blog][blog].
 
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=0x_jerry&langs_count=3)
 
